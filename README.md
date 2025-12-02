@@ -1,2 +1,2 @@
-# trialrepo
-This is a trial repo 
+# Trialrepo
+This is a trial repo for Maanvi Gupta
