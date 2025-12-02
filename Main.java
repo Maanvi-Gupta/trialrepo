@@ -6,7 +6,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("enter name");
-        Student st = new Student();
+        Student stu = new Student();
         st1.name = sc.nextLine();
         st1.age = 22;
         st1.info(st1.name, st1.age);
