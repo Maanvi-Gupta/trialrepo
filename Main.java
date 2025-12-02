@@ -1,5 +1,3 @@
-package com.maanvi;
-
 import java.util.*;
 
 public class Main {
