@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class Main {
@@ -6,11 +7,11 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("enter name");
-        Student stu = new Student();
-        st1.name = sc.nextLine();
-        st1.age = 22;
-        st1.info(st1.name, st1.age);
-        st1.info(st1.age);
+        Student stu1 = new Student();
+        stu1.name = sc.nextLine();
+        stu1.age = 22;
+        stu1.info(stu1.name, stu1.age);
+        stu1.info(stu1.age);
 
     }
 
